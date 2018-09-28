@@ -1,6 +1,4 @@
-Bitcoin's keys generator
-
-Simple Bitcoin Keys-Pair Generator
+A simple Bitcoin Keys-Pair Generator
 
 Usage: python keysGen.py
 
